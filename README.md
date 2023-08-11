@@ -17,3 +17,5 @@
 
 ## Figma Design - 
 ![Untitled (2)](https://github.com/shresthgour/Shopcart/assets/105034281/c61fea59-a0d8-41bc-938f-340d5c2654c7)
+
+![Untitled (3)](https://github.com/shresthgour/Shopcart/assets/105034281/48480c2d-c053-440f-9a89-bb85edcd0332)
