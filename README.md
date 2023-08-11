@@ -15,5 +15,5 @@
 1. Gets all the information from 'https://dummyjson.com/products' API.
 2. Added a feature where you can change the main image of a product to another one by clicking on the side images
 
-Figma Design - 
+## Figma Design - 
 ![Untitled (2)](https://github.com/shresthgour/Shopcart/assets/105034281/c61fea59-a0d8-41bc-938f-340d5c2654c7)
